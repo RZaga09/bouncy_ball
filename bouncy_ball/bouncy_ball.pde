@@ -1,3 +1,6 @@
+//Bouncing Ball
+//Learned from Coding Train (https://www.youtube.com/user/shiffman)
+
 PVector location, velocity;
 float x, y, z;
 ball object;
@@ -45,9 +48,10 @@ class ball {
    }
 }
 
-//Alternate Code
+//Alternate Code without Vectors
 
-/*float x = 25;
+/*
+ float x = 25;
  float y = 25;
  float speedx = 6;
  float speedy = 6;
@@ -71,4 +75,5 @@ class ball {
  if (y + 25 > height || y - 25 < 0) {
  speedy *= -1;
  }
- } */
+ } 
+ */
