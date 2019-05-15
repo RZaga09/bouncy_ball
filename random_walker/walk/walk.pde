@@ -1,3 +1,6 @@
+//Dot that moves in random direction
+//Learned from Coding Train (https://www.youtube.com/user/shiffman)
+
 float x;
 float y;
 float r;
