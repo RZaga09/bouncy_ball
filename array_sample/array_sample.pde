@@ -1,3 +1,6 @@
+//Quick cheat sheet to making Arrays in Processing
+//Learned from coding train (https://www.youtube.com/user/shiffman)
+
 float x;
 float y = 300;
 pipe[] pipes = new pipe[5];
