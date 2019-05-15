@@ -1,3 +1,6 @@
+//Circle shakes around the cener part of the screen while changing colour
+//Requested by Ashley Alfaro
+
 float rand1;
 float rand2;
 float color1;
