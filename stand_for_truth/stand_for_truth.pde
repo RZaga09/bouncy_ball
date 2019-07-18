@@ -1,3 +1,5 @@
+//Recreation of the intro of the new program "Stand for Truth" on GMA Network Inc.
+
 PFont impact;
 int counter;
 
